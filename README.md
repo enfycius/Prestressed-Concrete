@@ -26,7 +26,7 @@
 
 ## :partly_sunny: Tutorials
 
-This section refers to the following [link](https://enfycius.github.io/_enfycius/docs/category/psc).
+This section refers to the following [link](https://enfycius.github.io/_enfycius/docs-civil/category/psc).
 
 ## :warning: License
 
